@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Валера\Учеба\Лабы\ОС\НеМое\ProdConsMessage\ProdConsMessage\Source.cpp(89,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Валера\Учеба\Лабы\ОС\НеМое\ProdConsMessage\ProdConsMessage\Source.cpp(129,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Валера\Учеба\Лабы\ОС\НеМое\ProdConsMessage\ProdConsMessage\Source.cpp(167,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ProdConsMessage.vcxproj -> D:\Валера\Учеба\Лабы\ОС\НеМое\ProdConsMessage\Debug\ProdConsMessage.exe

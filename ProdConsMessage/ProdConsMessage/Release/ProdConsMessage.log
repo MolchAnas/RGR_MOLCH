@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\ProdConsMessage\ProdConsMessage\Source.cpp(89,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ProdConsMessage\ProdConsMessage\Source.cpp(129,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ProdConsMessage\ProdConsMessage\Source.cpp(167,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  23 of 24 functions (95.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ProdConsMessage.vcxproj -> D:\ProdConsMessage\Release\ProdConsMessage.exe
